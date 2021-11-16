@@ -21,15 +21,4 @@ def mMs(arr):
 arr = [1,2,3,4,5]
 mMs(arr)
 
-
 #output = 10 14 
-
-
-
-
-
-
-
-
-
-
