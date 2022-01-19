@@ -4,12 +4,3 @@
 <b><l>Hackerank Problem's.
 <br> 
   <br> 
-  <b>Python
-  <pre>PythonList str to int conversion  <br>
-          a = input() // 1 2 3
-          List = a.split()
-          print(List) // ['1','2','3']
-          
-      //change the str to int 
-      new_list = list(map(int,List))
-      print(new_list) // [1,2,3]
