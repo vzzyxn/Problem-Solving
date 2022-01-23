@@ -1,3 +1,4 @@
+#Finding the percentage
 n = int(input())
     student_marks = {}
     for _ in range(n):
